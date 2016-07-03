@@ -10,7 +10,7 @@ NFC. To facilitate this, the service has been divided into two different applica
 
 Discover Dev allows administrative authorities at parks and museums to upload their audio guides to the Discover service and 
 connect them to NFC tagsvia a straighforward interface on an Android phone. The authentication, accounts, and data storage 
-was provided by the [Parse API](https://parse.com/). 
+were provided by Facebook's [Parse API](https://parse.com/). 
 
 #### Discover
 
@@ -32,4 +32,4 @@ Over the development period, I learned (through no small amount of trial and err
 
 I had also submitted the project described here to the Google Science Fair in May 2015. If you're interested in learning 
 more about the research I had done and the tradeoffs I made, be sure to look at my thought process
-[here](https://www.googlesciencefair.com/projects/en/2015/74cc7b22313c01b195ee50f2c6d6cb11f833ab820c52ecaa81c960573b79540f)
+[here](https://www.googlesciencefair.com/projects/en/2015/74cc7b22313c01b195ee50f2c6d6cb11f833ab820c52ecaa81c960573b79540f).
